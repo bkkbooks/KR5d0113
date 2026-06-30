@@ -1,0 +1,89 @@
+canonical_identifier: bkk:krp/KR5d0113/CK-KZ-jye/v1
+canonical_location: https://kanripo.org/bkk/KR5d0113/CK-KZ-jye/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 翠虛篇
+  date: '2015-08-29 02:05:15.438095'
+  source:
+    repository: kanripo
+    path: KR5d0113
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+  edition:
+    short: CK-KZ-jye
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5d0113_000-CK-KZ-jye.yaml, hash: 'sha256:cc8d4791568f97b1d68fb4924b7c32eda21b324a0a0318c2a6e90cae2ac40540'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5d0113_000-CK-KZ-jye.markers.yaml, hash: 'sha256:0fff562248539b67e915f47107025282f03c57f087474af28784e72ee2d12c39'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5d0113_CK-KZ-jye_000-h1
+    span:
+    - body
+    - 0
+    - 1122
+  label: 紫庭經
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR5d0113_CK-KZ-jye_000-h2
+    span:
+    - body
+    - 1122
+    - 2032
+  label: ¶<md:KR5d0113_HFL_000-006b>¶¶¶¶¶¶¶¶¶¶¶<md:KR5d0113_HFL_000-007a>¶¶¶¶¶¶¶¶¶¶¶<md:KR5d0113_HFL_000-007b>¶¶¶¶¶¶¶¶¶¶¶<md:KR5d0113_HFL_000-008a>¶¶¶¶¶¶¶¶¶¶¶<md:KR5d0113_HFL_000-008b>¶¶¶¶¶¶¶¶¶¶¶<md:KR5d0113_HFL_000-009a>¶¶¶¶¶¶¶¶¶¶<md:KR5d0113_HFL_000-009b>¶¶¶¶¶¶¶¶¶¶¶<md:KR5d0113_HFL_000-010a>¶¶¶¶¶¶¶¶¶¶¶<md:KR5d0113_HFL_000-010b>¶¶¶¶¶¶¶¶¶¶¶<md:KR5d0113_HFL_000-011a>¶¶¶¶¶¶¶¶¶¶¶<md:KR5d0113_HFL_000-011b>¶¶¶¶¶¶¶¶¶¶¶<md:KR5d0113_HFL_000-012a>¶¶¶¶¶¶¶¶¶¶¶<md:KR5d0113_HFL_000-012b>¶¶¶¶¶¶¶¶¶¶¶<md:KR5d0113_HFL_000-013a>¶¶¶¶¶¶¶¶¶¶¶<md:KR5d0113_HFL_000-013b>¶¶¶¶¶¶¶¶¶¶¶<md:KR5d0113_HFL_000-014a>¶¶¶¶¶¶¶¶¶¶¶<md:KR5d0113_HFL_000-014b>¶¶¶¶¶丹基歸一論
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR5d0113_CK-KZ-jye_000-h3
+    span:
+    - body
+    - 2032
+    - 2127
+  label: 水調歌頭贈九霞子鞠九思
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR5d0113_CK-KZ-jye_000-h4
+    span:
+    - body
+    - 2127
+    - 2183
+  label: 鵲橋仙¶贈蟄虛子沙道昭
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR5d0113_CK-KZ-jye_000-h5
+    span:
+    - body
+    - 2183
+    - 2282
+  label: 眞珠簾贈海南子白玉蟾
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR5d0113_CK-KZ-jye_000-h6
+    span:
+    - body
+    - 2282
+    - 5343
+  label: 金丹詩訣¶<md:KR5d0113_HFL_000-018b>
+  type: section
+  level: 2
+hash: sha256:2a1b845211966a2d63d122a3eb4b7b50dfffe4d172b7f1e021853e9248adfe37

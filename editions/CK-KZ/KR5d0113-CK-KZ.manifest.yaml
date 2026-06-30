@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR5d0113/CK-KZ/v1
+canonical_location: https://kanripo.org/bkk/KR5d0113/CK-KZ/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 翠虛篇
+  date: '2015-08-29 02:05:15.438095'
+  source:
+    repository: kanripo
+    path: KR5d0113
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+  edition:
+    short: CK-KZ
+    label: 【重刊道藏輯要】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5d0113_000-CK-KZ.yaml, hash: 'sha256:75cd5250ec2085bdc788104ba7d839f4105388e388552ba9d23cef67c170c5ac'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5d0113_000-CK-KZ.markers.yaml, hash: 'sha256:d531e8eb99684ff3606478886a6941f9e3919c343e0640a01180bddabf514e10'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5d0113_CK-KZ_01p027b
+    span:
+    - body
+    - 0
+    - 5386
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:245ba2a4fb695f49899db580ed3baec32febffe7fccbd43ba5c808a56a51abf0
