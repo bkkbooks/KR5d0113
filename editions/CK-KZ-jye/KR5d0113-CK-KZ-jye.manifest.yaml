@@ -24,7 +24,7 @@ assets:
   parts:
   - {seq: 0, filename: KR5d0113_000-CK-KZ-jye.yaml, hash: 'sha256:cc8d4791568f97b1d68fb4924b7c32eda21b324a0a0318c2a6e90cae2ac40540'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR5d0113_000-CK-KZ-jye.markers.yaml, hash: 'sha256:0fff562248539b67e915f47107025282f03c57f087474af28784e72ee2d12c39'}
+  - {seq: 0, role: markers, filename: assets/KR5d0113_000-CK-KZ-jye.markers.yaml, hash: 'sha256:1527dea5e20076e42e1c98941f52197ce4d833b330b38492a32640d23b78e06b'}
 table_of_contents:
 - ref:
     seq: 0
@@ -86,4 +86,4 @@ table_of_contents:
   label: 金丹詩訣¶<md:KR5d0113_HFL_000-018b>
   type: section
   level: 2
-hash: sha256:2a1b845211966a2d63d122a3eb4b7b50dfffe4d172b7f1e021853e9248adfe37
+hash: sha256:0d9215ca476fab99eb21603cfedc026f96a9d360d67e75ecde3be51a7836e036
